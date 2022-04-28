@@ -2,7 +2,7 @@ var words = ["Communities form\nas we circulate our thoughts and ideas\n online.
 "Identities represented\n in memes are fluid & boundaryless.",
 "We contain multitudes.\nOuridentities can be as multiple as\n the online platforms that we use.",
 "We appropriate ourselves\n by redefining our identities online.",
-"Love", "We are more likely to \nfind a group we belong to online \nthan offline.\Algorithm > Probability IRL",
+"Love", "We are more likely to \nfind groups we belong to online \nthan offline.\Algorithm > Probability IRL",
 "404",
 "As we glitch, we reject the binary.",
 "Glitches expose the underlying binary system.",
