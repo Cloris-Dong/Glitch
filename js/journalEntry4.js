@@ -1,4 +1,4 @@
-var words = ["Communities form\nas we circulate our thoughts and ideas\n online.",
+var words = ["Communities form\nas we circulate our thoughts and ideas\nonline.",
 "Identities represented\n in memes are fluid & boundaryless.",
 "We contain multitudes.\nOuridentities can be as multiple as\n the online platforms that we use.",
 "We appropriate ourselves\n by redefining our identities online.",
