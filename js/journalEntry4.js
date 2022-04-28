@@ -8,7 +8,8 @@ var words = ["Communities form\nas we circulate our thoughts and ideas\nonline."
 "Glitches expose the underlying binary system.",
 "Hashtags.",
 "We declare ourselves 4ever free online.",
-"Internet is not a Utopia. We glitch to create a Utopia."
+"Internet is not a Utopia. We glitch to create a Utopia.",
+"Social media are trying to name us but we can choose to be unnamed."
 ];
 
 var index = 0;
