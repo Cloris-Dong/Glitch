@@ -1,8 +1,8 @@
 var words = ["Communities form\nas we circulate our thoughts and ideas\nonline.",
 "Identities represented\n in memes are fluid & boundaryless.",
-"We contain multitudes.\nOuridentities can be as multiple as\n the online platforms that we use.",
+"We contain multitudes.\nOur identities can be as multiple as\nthe online platforms that we use.",
 "We appropriate ourselves\n by redefining our identities online.",
-"Love", "We are more likely to \nfind groups we belong to online \nthan offline.\Algorithm > Probability IRL",
+"Love", "We are more likely to \nfind groups we belong to online\nthan offline.\Algorithm > Probability IRL",
 "404",
 "As we glitch, we reject the binary.",
 "Glitches expose the underlying binary system.",
@@ -50,7 +50,7 @@ function mouseClicked() {
   if (index == words.length) {
     index = 0;
   }
-  x = random(10, width * 0.6);
+  x = random(10, width * 0.5);
   y = random(60, height* 0.65);
 
   r1 = random (100, 220);
